@@ -15,5 +15,5 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ## Links
 
-- [Solution page]()
-- [Live site]()
+- [Solution page](https://www.frontendmentor.io/solutions/flex-results-summary-component-n9-2gkRvSb)
+- [Live site](https://risaysky.github.io/Frontend-Mentor-results-summary-component/)
