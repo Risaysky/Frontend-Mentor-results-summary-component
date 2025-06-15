@@ -197,7 +197,7 @@ button:focus-visible {
     body {
         background-color: var(--pale-blue);
         display: flex;
-        height: 100vh;
+        min-block-size: 100vh;
         justify-content: center;
         align-items: center;
     }
@@ -207,6 +207,7 @@ button:focus-visible {
         box-shadow: 0px 10px 10px var(--pale-lavender);
         border-radius: 30px;
         block-size: 480px;
+        margin: 3.125rem;
     }
 
     .result {
